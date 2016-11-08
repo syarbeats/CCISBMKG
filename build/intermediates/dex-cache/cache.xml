@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-cast-8.4.0_8ac040df3b30ecab21aa05a35489cd81c0490e96.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-measurement-8.4.0_19eb95e51a9ed86cb5cbd8920c4f925d00386ecc.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-nearby-8.4.0_d1155cbc401caefe568dd4ca9d4cb776f1bf321e.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-plus-8.4.0_696e1d53fadcf2775557268fabe13d636cce42db.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-drive-8.4.0_4669a089bebabe08112bac68d18c8ff45620b55d.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-8.4.0_9af0a18d879829208572b256e13ae733541bf53a.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-8.4.0_9ca83ff61cd9f6afafa81583257159862cc25ce5.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.4.0_932b0c8ba617c889dfda14955801e44d01b696fb.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appindexing-8.4.0_df2c853016d43c1fe360f4cabf4113187058b5e5.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-wallet-8.4.0_6eabdc6efee2714af5e787a5ee0e34de21d9f03b.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-safetynet-8.4.0_661f8a41405b04483c2b0dc947fae322cbdecee4.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gcm-8.4.0_90dd1b3d20b9afce56bcaa2a4fa96b59ede0e958.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-auth-8.4.0_5cd3f28f3993f0ebf183a71d254531563a912451.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-wearable-8.4.0_b7a85ee0e06bb70fab7e0c639c8643d79bc6335b.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-vision-8.4.0_3eb7bd6ec4beb0af6d6366ac8190f933d80530ca.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.android.support-mediarouter-v7-23.0.0_d5b706c0825d426c696e59c49b1a6499a5ab8ae0.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-games-8.4.0_d387f1bcee34acdf8a3c2961a6cc9217fbce21a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus X455LA\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_cb41092e4cfb9bd0cb6e5853b5f19afe1d47681e.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-location-8.4.0_59d05b09c6074581cfb88dbe0ce73d2b49a5996f.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_94085fb0dce69b3201f293b03c27ba5d3f751d4e.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-panorama-8.4.0_8c3253c8f3853dd880f0f2a68a3b236341d162f6.jar" />
+    </item>
+    <item
+        jar="C:\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_81212909e64a1af51bf03238700177acdeff8149.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-analytics-8.4.0_35c151229b6d7c7f188f8b2b31c696aa86cd77e8.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\internal_impl-23.0.0_26d082295a6f4c15c2691da598933afc2070e67a.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.4.0_2366cf7bebc17df5422dc0e0086f6d75257ad6db.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appinvite-8.4.0_0acd836ebe70820e5f0c62d0f26a35149e22e464.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-8.4.0_9c0517c01b2281cc442f7591b9d1eeac578d40ae.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\libs\mpandroidchartlibrary-2-2-4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e5455fb794bfcbeb75da252dffd907794614f7fd">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\mpandroidchartlibrary-2-2-4_6470e53f6586eeebe8687e4c82becb04a7628721.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-fitness-8.4.0_965d855f27d3229cff0382b126337ad7ccf4992e.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.4.0_de89d48602215c2cdadda28bfe3ae20149bb16f0.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-identity-8.4.0_b4f0991698f2b577b19966ce238237a28d12ac15.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-maps-8.4.0_2b2792e00630f0c6ab32309ee7735d67f698a3ea.jar" />
+    </item>
+    <item
+        jar="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\PT.GEO\Workspaces\CCISBMKG\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_6f59fc4a8f568374a66134f922467c8a8b9a7333.jar" />
+    </item>
+
+</items>

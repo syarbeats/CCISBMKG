@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_indikatoriklimtropis"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Indikator Iklim Tropis" />
+
+    <item android:id="@+id/menu_stasiun_klimatologi"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Stasiun Klimatologi" />
+
+    <item android:id="@+id/menu_help"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Help"/>
+
+    <item android:id="@+id/menu_about"
+        android:icon="@mipmap/ic_launcher"
+        android:title="About"/>
+
+</menu>
